@@ -66,6 +66,11 @@
 			</exclusions>
 		</dependency>
 		<dependency>
+			<groupId>ca.juliusdavies</groupId>
+			<artifactId>not-yet-commons-ssl</artifactId>
+			<version>0.3.11</version>
+		</dependency>
+		<dependency>
 			<groupId>xerces</groupId>
 			<artifactId>xercesImpl</artifactId>
 			<version>2.12.2</version>
