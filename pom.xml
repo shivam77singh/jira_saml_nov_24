@@ -383,6 +383,16 @@
 			<groupId>org.bouncycastle</groupId>
 			<artifactId>bcmail-jdk15on</artifactId>
 			<version>1.70</version>
+<!--			<exclusions>-->
+<!--				<exclusion>-->
+<!--					<groupId>org.bouncycastle</groupId>-->
+<!--					<artifactId>bcutil-jdk15on</artifactId>-->
+<!--				</exclusion>-->
+<!--				<exclusion>-->
+<!--					<groupId>org.bouncycastle</groupId>-->
+<!--					<artifactId>bcpkix-jdk15on</artifactId>-->
+<!--				</exclusion>-->
+<!--			</exclusions>-->
 		</dependency>
 		<dependency>
 			<groupId>com.atlassian.plugins.rest</groupId>
